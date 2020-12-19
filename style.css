@@ -1,0 +1,15 @@
+h1 {
+    text-align: left ;
+    color: blue;
+}
+
+.form {
+    text-align: left ; 
+    margin: auto;
+    border: solid red ;
+    padding: 10px;
+}
+
+#lastName{
+    background-color: aqua;
+}
